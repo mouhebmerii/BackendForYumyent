@@ -1,0 +1,19 @@
+# Project exclude paths
+/node_moduleds/@mapbox/node-pre-gyp/node_modules/
+/node_moduleds/agent-base/node_modules/
+/node_moduleds/ansi-align/node_modules/
+/node_moduleds/body-parser/node_modules/
+/node_moduleds/cacheable-request/node_modules/
+/node_moduleds/chalk/node_modules/
+/node_moduleds/express/node_modules/
+/node_moduleds/gauge/node_modules/
+/node_moduleds/https-proxy-agent/node_modules/
+/node_moduleds/jsonwebtoken/node_modules/
+/node_moduleds/make-dir/node_modules/
+/node_moduleds/nodemon/node_modules/
+/node_moduleds/package-json/node_modules/
+/node_moduleds/raw-body/node_modules/
+/node_moduleds/semver-diff/node_modules/
+/node_moduleds/string-width/node_modules/
+/node_moduleds/wide-align/node_modules/
+/node_modules/
